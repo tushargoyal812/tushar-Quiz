@@ -44,5 +44,9 @@ for(var i=0;i<questions.length;i++)
     play(questions[i].question,questions[i].answer)
 }
 
+if(score===highScore)
+{
+    console.log("WOW you nkow tushar really well")
+}
 
 
