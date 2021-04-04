@@ -22,3 +22,24 @@ function play(question,answer)
     console.log("---------------------------------------------")
 }
 
+var questions=
+[
+    {
+        question: "In which city does Tushar live? ",
+        answer: "ujjain"
+    },
+    {
+        question: "what is Tushar's nick name? ",
+        answer: "Laalu"
+    },
+    {
+      question: "Which is the favorite sports of tushar? ",
+      answer: "cricket"  
+    }
+
+]
+
+
+
+
+
