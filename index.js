@@ -46,7 +46,6 @@ for(var i=0;i<questions.length;i++)
 
 if(score===highScore)
 {
-    console.log("WOW you nkow tushar really well")
+    console.log("WOW you know tushar really well")
 }
-
 
