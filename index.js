@@ -35,6 +35,14 @@ var questions=
     {
       question: "Which is the favorite sports of tushar? ",
       answer: "cricket"  
+    },
+    {
+      question: "which is the favorite book of tushar? ",
+      answer: "wings of fire"
+    },
+    {
+      question: "which is the favorite city of tushar? ",
+      answer:"ujjain"
     }
 
 ]
